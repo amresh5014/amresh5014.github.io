@@ -1,13 +1,12 @@
 # amresh5014.github.io
 
-
-# Your Name
+# <span style="color:#3366ff;">Your Name</span>
 
 ## Navigation Bar
-- [Home](#home)
-- [About](#about)
-- [Works](#works)
-- [Contact](#contact)
+- [<span style="color:#3366ff;">Home</span>](#home)
+- [<span style="color:#3366ff;">About</span>](#about)
+- [<span style="color:#3366ff;">Works</span>](#works)
+- [<span style="color:#3366ff;">Contact</span>](#contact)
 
 ---
 
@@ -17,26 +16,26 @@ Welcome to my personal website! This is where I showcase my works and share a bi
 ---
 
 ## About <a name="about"></a>
-### About Me
+### <span style="color:#3366ff;">About Me</span>
 Brief description about yourself, your background, skills, and interests.
 
-### Education
+### <span style="color:#3366ff;">Education</span>
 - University Name, Degree, Year
 - High School Name, Year
 
-### Experience
+### <span style="color:#3366ff;">Experience</span>
 - Company Name, Position, Year
 - Company Name, Position, Year
 
 ---
 
 ## Works <a name="works"></a>
-### Projects
+### <span style="color:#3366ff;">Projects</span>
 - [Project 1](link)
 - [Project 2](link)
 - [Project 3](link)
 
-### Portfolio
+### <span style="color:#3366ff;">Portfolio</span>
 - [Portfolio 1](link)
 - [Portfolio 2](link)
 - [Portfolio 3](link)
@@ -44,19 +43,20 @@ Brief description about yourself, your background, skills, and interests.
 ---
 
 ## Contact <a name="contact"></a>
-### Email
+### <span style="color:#3366ff;">Email</span>
 your.email@example.com
 
-### Social Media
+### <span style="color:#3366ff;">Social Media</span>
 - [LinkedIn](link)
 - [GitHub](link)
 - [Twitter](link)
 
-### Contact Form
+### <span style="color:#3366ff;">Contact Form</span>
 Include a contact form here if you have one.
 
 ---
 
 ## Footer
 Include any additional information or links here.
+
 
