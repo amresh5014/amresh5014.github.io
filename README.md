@@ -1,8 +1,11 @@
 # amresh5014.github.io
 
+
+
+
 # <span style="color:#3366ff;">Your Name</span>
 
-## Navigation Bar
+## <span style="color:#3366ff;">Navigation</span>
 - [<span style="color:#3366ff;">Home</span>](#home)
 - [<span style="color:#3366ff;">About</span>](#about)
 - [<span style="color:#3366ff;">Works</span>](#works)
@@ -10,12 +13,12 @@
 
 ---
 
-## Home <a name="home"></a>
+## <span style="color:#3366ff;">Home</span> <a name="home"></a>
 Welcome to my personal website! This is where I showcase my works and share a bit about myself.
 
 ---
 
-## About <a name="about"></a>
+## <span style="color:#3366ff;">About</span> <a name="about"></a>
 ### <span style="color:#3366ff;">About Me</span>
 Brief description about yourself, your background, skills, and interests.
 
@@ -29,7 +32,7 @@ Brief description about yourself, your background, skills, and interests.
 
 ---
 
-## Works <a name="works"></a>
+## <span style="color:#3366ff;">Works</span> <a name="works"></a>
 ### <span style="color:#3366ff;">Projects</span>
 - [Project 1](link)
 - [Project 2](link)
@@ -42,7 +45,7 @@ Brief description about yourself, your background, skills, and interests.
 
 ---
 
-## Contact <a name="contact"></a>
+## <span style="color:#3366ff;">Contact</span> <a name="contact"></a>
 ### <span style="color:#3366ff;">Email</span>
 your.email@example.com
 
@@ -56,7 +59,8 @@ Include a contact form here if you have one.
 
 ---
 
-## Footer
+## <span style="color:#3366ff;">Footer</span>
 Include any additional information or links here.
+
 
 
